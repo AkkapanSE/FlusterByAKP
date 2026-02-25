@@ -7,6 +7,11 @@
 ---
 
 ## 📷 Screenshots (ภาพหน้าจอ)
+<img width="478" height="657" alt="image" src="https://github.com/user-attachments/assets/ada96349-92a2-45dd-bf3f-e652e6aefee4" />
+<img width="484" height="880" alt="image" src="https://github.com/user-attachments/assets/0a329c00-9e22-4ba1-b217-8dbdeb3f569c" />
+<img width="399" height="186" alt="image" src="https://github.com/user-attachments/assets/2441d7d1-e2ed-46e1-9d67-ab49f6ec87fa" />
+<img width="412" height="192" alt="image" src="https://github.com/user-attachments/assets/a1652715-984a-4eaa-9de3-ca90fa4b909e" />
+
 
 ---
 
