@@ -61,6 +61,11 @@ lib/
 ---
 
 ## 💡 ผลลัพธ์ของโปรแกรม
+- <img width="522" height="1108" alt="image" src="https://github.com/user-attachments/assets/cbd352b6-8a70-4621-ac4d-7e3ec33e7cb7" />
+- <img width="514" height="638" alt="image" src="https://github.com/user-attachments/assets/eddf9c3f-fe85-4d01-bf02-e286ee7935a1" />
+- <img width="500" height="702" alt="image" src="https://github.com/user-attachments/assets/ccdca769-5c9a-4abb-82b2-cfb05c727bfa" />
+
+
 
 
 ---
